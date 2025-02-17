@@ -1,7 +1,7 @@
 <img width="10000" src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day7.gif?fit=767%2C356&ssl=1" alt="banner">
 
 <h1 align="center">Hi 👋, I'm Sai Sandeep Illuri</h1>
-<h3 align="center">A passionate Data Science and Artificial Intelligence Enthusiast</h3>
+<h3 align="center">A passionate Data and AI Enthusiast with the domain of maritime and software</h3>
 
 <p align="center">
   <img width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding">
@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working on **Cargo Vessel Identification and Port Entry Notification System**  
-- 🌱 I’m currently learning **Natural Language Processing and Computer Vision**  
+- 🌱 I’m currently learning **Computer Vision, NLP and GenAI**  
 - 👯 I’m looking to collaborate on **Data Science and AI Projects**  
 - 🤝 I’m looking for help with **Providing Reliable Dataset**  
 - 💬 Ask me about **Data Analytics and Machine Learning**  
